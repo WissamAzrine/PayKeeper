@@ -1,16 +1,19 @@
-# pay_keeper
 
-A new Flutter project.
+![visitor badge](https://komarev.com/ghpvc/?username=WissamAzrine-Flutter-Wallet)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+# Flutter Wallet App UI
+ With Dark & Light Theme
+- [Original Design](https://www.uplabs.com/posts/ewalle-portable-wallet)
+ 
+## Light Theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Banner](assets/light.png)
+ 
+## Dark Theme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Banner](assets/dark.png)
